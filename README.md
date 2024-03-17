@@ -11,4 +11,5 @@ When the number of PDFs grows very large, it is better to store the index embedd
 3. create a virtual environment. ``conda create -n rag-apps python=3.10 -y``
 4. clone the repository
 5. Run ``pip install -r requirements.txt``
-6. Run the cells in Notebook.
+6. Create folder titled `data` where you will place your PDFs
+7. Run the cells in Notebook.
